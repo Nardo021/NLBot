@@ -1,8 +1,11 @@
 # NLBot
-**基于NoneBot2（Python3.x）和go-cqhttp制作的QQ机器人**
-现正在自研机器人插件
+**由NL Team开发的基于NoneBot2（Python3.x）和go-cqhttp制作的QQ机器人**
+*现正在自研机器人插件*
 
-**使用教程**
+------------
+
+
+### 使用教程
 
 1. [参考这里](https://v2.nonebot.dev/docs/start/installation)(官方教程)安装NoneBot2
 2. 安装fastapi驱动器 [参考这里](https://v2.nonebot.dev/docs/start/install-driver)
