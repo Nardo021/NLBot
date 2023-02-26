@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "antirecall"
+version = "0.0.1"
+description = "AntiRecall"
+authors = ["NL Team"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7.3"
+nonebot2 = "^2.0.0-beta.4"
+nonebot-adapter-onebot = "^2.0.0-beta.1"
+
+[tool.poetry.dev-dependencies]
+nb-cli = "^0.6.0"
+black = "^22.1.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
