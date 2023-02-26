@@ -13,4 +13,10 @@
 4. 随后打开终端，cd至nlbot根目录
 5. 输入nb run即可
 
+### Todo
+- [x] 创建menu
+- [ ] 添加更多功能
+- [ ] 更新menu
+- [ ] 修复防撤回重复发送信息
+------------
 **任何报错请先在[NoneBot2官网](https://v2.nonebot.dev/)查询，再创建issues**
